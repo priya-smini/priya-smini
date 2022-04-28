@@ -1,9 +1,6 @@
 ### Hi there, Priyasmini Sahoo here! 👋
 
-## I'm a Software Engineer!
-- 🔭 I’m currently working on [covidTracker](https://github.com/priya-smini/covidTracker)
-- ✨ 2021 Goals: Contribute to Open Source Projects and read 21 novels.
-- ⚡ Fun fact: I love to dance and read novels.
+## I'm a Software Developer!
  
 
 <!--
